@@ -1,2 +1,2 @@
 # sass-conversion
-Converting to SASS
+Sample Site to be used as practice in converting CSS to SASS
